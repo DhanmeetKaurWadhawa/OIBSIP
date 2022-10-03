@@ -65,18 +65,6 @@
                 <td><input type="button" value="*" onclick="display('*')"></td>
             </tr>
             <tr>
-                <td><input type="button" value="Pow" onclick="pow1()"></td>
-                <td><input type="button" value="exp" onclick="display('8')"></td>
-                <td><input type="button" value="log" onclick="display('9')"></td>
-                <td><input type="button" value="," onclick="display(',')"></td>
-            </tr>
-            <tr>
-                <td><input type="button" value="SIN" onclick="sin1()"></td>
-                <td><input type="button" value="COS" onclick="display('8')"></td>
-                <td><input type="button" value="TAN" onclick="display('9')"></td>
-                <td><input type="button" value="fact" onclick="display('*')"></td>
-            </tr>
-            <tr>
                 <td><input type="button" value="." onclick="display('.')"></td>
                 <td><input type="button" value="0" onclick="display('0')"></td>
                 <td><input type="button" value="=" onclick="sol()"></td>
