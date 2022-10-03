@@ -1,0 +1,101 @@
+<html>
+<head>
+	<style>
+
+		body {
+			background-color: skyblue;
+			margin: 20%;
+        }
+		#title {
+			text-align: center;
+			text-shadow: 5px 5px 10px white;
+			font-size: 7vh;
+		}
+		img {
+			display: inline-block;
+			width: 100%;
+		}
+
+		#caption {
+			font-size: 17px;
+			font-family: Gill Sans;
+			color: black;
+		}
+		div#tribute-data {
+			background-color: rgb(46, 139, 87, 0.25);
+			box-shadow: 20px 20px 20px yellowgreen;
+			font-family: Georgia;
+			padding: 25px 25px;
+			margin: 11px;
+			margin-top: 50px;
+		}
+		h1.title-lata {
+			font-size: 35px;
+			color: white;
+			text-align: center;
+			text-shadow: 5px 5px 10px black;
+		}
+		#tribute-link {
+			text-decoration: none;
+			color: black;
+		}
+	</style>
+</head>
+
+<body>
+	<main id="main">
+
+		<h1 id="title">
+			LATA MANGESHWAR
+		</h1>
+
+		<div id="img">
+
+			<img src="C:\Users\dell\Desktop\lataji.jpg" height="400" width="400" id="image"
+				alt="Error Loading Image">
+		</div>
+
+		<div id="tribute-data">
+
+			<!--Achievements and other
+				details of the person-->
+			<h1 class="title-lata">
+				About the Legend
+			</h1>
+
+			
+
+<p>
+				☛ Lata Mangeshkar 
+                was an Indian playback singer and occasional music composer.<br><br>
+				☛ Lata Mangeshkar was born in Indore on September 28, 1929, and became, quite simply, 
+                the most popular playback singer in Bollywood's history.
+                 She sung for over 50 years for actresses from Nargis to Preity Zinta, as well as recorded albums of all kinds<br><br>
+				☛ Until the 1991 edition, when her entry disappeared, the Guinness Book of World Records listed her as the most-recorded artist in the world with not less than 30,000 solo, 
+                duet,and chorus-backed songs recorded in 20 Indian languages between 948 and 1987. 
+                Today that number may have reached 40,000!<br><br>
+				☛ She was born the daughter of Dinanath Mangeshkar, the owner of a theater company and a reputed classical singer in his own right. He started giving Lata singing lessons from the age of five, and she also studied with renowned singers Aman Ali Khan Sahib and Amanat Khan. 
+                Even at a young age she displayed a God-given musical gift and could master vocal exercises the first time
+				<br><br> ☛ Her contribution to Indian music industry in a career spanning seven decades gained her honorific titles such as the<strong>
+				“Nightingale of India, Voice of the Millennium and Queen of Melody”</strong>
+				<br><br> 
+				 ☛ She was the recipient of three National Film Awards, 15 Bengal Film Journalists' Association Awards, four Filmfare Best Female Playback Awards, 
+                 two Filmfare Special Awards, the Filmfare Lifetime Achievement Award and many more.
+				<br><br> ☛ Indian actor and film producer Dilip Kumar once commented, Lata Mangeshkar ki awaaz kudrat ki takhleek ka ek karishma hain, meaning <strong>"Lata Mangeshkar's voice is a miracle from God"</strong>.
+				<br><br> 
+				<br><br> <strong>No matter which female playback singer breaks through in any generation,
+                 she cannot replace the timeless voice of Lata Mangeshkar. She was an icon beyond icons....</strong>
+				<br><br><br>
+			</p>
+
+
+		</div>
+		<br>
+		 For more information,
+		check out
+		<a id="tribute-link" href="#">
+			<b>LATA MANGESHWAR</b> on Wikipedia.
+	</main>
+</body>
+
+</html>
